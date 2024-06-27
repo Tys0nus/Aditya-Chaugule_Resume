@@ -6,8 +6,8 @@ I'm a Robotics Engineer with a strong background in electro-mechanical prototypi
 
 - Phone: (240) 580-4460
 - Email: aditya97@terpmail.umd.edu
-- GitHub: adityachaugule
-- LinkedIn: adityachaugule
+- GitHub: [github\adityachaugule](https://github.com/Tys0nus)
+- LinkedIn: [in/adityachaugule]([https://pages.github.com/](https://www.linkedin.com/in/adityachaugule/))
 
 ## 🎓 Education
 
