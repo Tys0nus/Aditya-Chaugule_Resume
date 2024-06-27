@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Aditya Chaugule!
 
-I'm a Robotics Engineer with a strong background in electro-mechanical prototyping. I'm passionate about developing revolutionary machines and have experience in software development, mechanical design, SolidWorks, and programming languages such as MATLAB, C++, Python, and ROS.
+I'm a Robotics Engineer with a strong background in electro-mechanical prototyping. I'm passionate about developing revolutionary machines and have experience in robotics, mechanical design, electronic prototyping, Solidworks (CSWE), FMEA, programming languages (MATLAB, C++, Python & ROS), computational optimization and machine learning
 
 ## 📞 Contact Me
 
